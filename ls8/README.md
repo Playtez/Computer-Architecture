@@ -67,7 +67,10 @@ but you'll have to implement those three above instructions first!
     - The load function loads a program into memory. The func alu takes in operation register a and register b. Trace func is a func to print out CPU state, you may call it to debug. run runs the CPU.
   - ls8.py invokes cpu class. Any needed function.
 - Note what has been implemented, and what hasn't.
+  - on Cpu.py load function is provided and so is trace function.
+  - run needs to implemented and so does alu, run
 - Read this whole file.
+  -
 - Skim the spec.
 
 ## Step 1: Add the constructor to `cpu.py`
